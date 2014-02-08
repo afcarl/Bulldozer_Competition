@@ -17,7 +17,7 @@ The machine_appendix.csv file contains the correct year manufactured for a given
 
 ### Evaluation
 
-We are holding 10% of the data. The winning team be able to predict the lowest difference between at least 50% of the test data. The evaluation metric for this challenge is the RMSLE (root mean squared log error) between the actual and predicted auction prices. You will present your approach and results today at 5pm as a 5 min talk. Prepare slides.
+We are holding 10% of the data. The winning team be able to predict the lowest difference between at least 50% of the test data. The evaluation metric for this challenge is the RMSLE (root mean squared log error) between the actual and predicted auction prices. You will present your approach and results today at 6pm as a 5 min talk. Prepare slides.
 
 ## Tools: 
 
