@@ -1,5 +1,7 @@
 # Regression on Buldozers 
 
+UPDATE: This was our first simulated Kaggle competition at Zipfian (3 weeks in)
+
 Welcome to the first weekly challenge, a summary mini-projects that comes to cement the info you drank from this weeks information fire hose.  
 You are in a group of 3 and your challenge is to predict the sale price of a particular piece of heavy equiment at auction, based on it's usage, equipment type, and configuaration.  The data is sourced from auction result postings and includes information on usage and equipment configurations. 
 
